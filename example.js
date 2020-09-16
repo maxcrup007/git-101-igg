@@ -7,7 +7,7 @@ console.log("PI:",PI)
 let name = "John"
 name = "JOJO"
 let test = "Hi there"
-name = `${test} B`
+name = `${test} Max`
 
 console.log("name: ", name)
 
