@@ -1,5 +1,5 @@
 let max = {
-    name: 'Vorawut',
+    firstname: 'Vorawut',
     lastname: 'Phirunpatthanagul',
     nickname: 'Max',
     age: 21,
