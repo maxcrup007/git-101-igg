@@ -3,7 +3,7 @@ let max = {
     lastname: 'Phirunpatthanagul',
     nickname: 'Max',
     age: 21,
-    habbit: 'play games',
+    hobbies: 'play games',
     Phonenumber: '084-4877396',
     gender: 'male'
 }
