@@ -8,3 +8,5 @@
 
 # otherhaven
 # ABNormal
+
+[![image](https://thumbs.gfycat.com/CleverActualBirdofparadise-size_restricted.gif)](https://gfycat.com/cleveractualbirdofparadise-jojos-bizarre-adventure-metal-gear-solid)
