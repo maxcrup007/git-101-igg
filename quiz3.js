@@ -1,21 +1,23 @@
-if (condition => 80) {
-    grade = 'A';
+const calculateGrade = score => grade
+
+if (score < 101 && score > 80) {
+    grade = "A";
 }
 
-else if ( condition < 80 , condition => 70) {
-    grade = 'B';
+else if ( score < 80 && score > 69) {
+    grade = "B";
 }
 
-else if ( condition < 70 , condition => 60 ) {
-    grade = 'C';
+else if ( score < 70 && score > 59 ) {
+    grade = "C";
 }
 
-else if ( condition < 60 , condition => 50 ) {
-    grade = 'D';
+else if ( score < 60 && score > 49 ) {
+    grade = "D";
 }
 
-else ( condition < 50 ) {
-    grade = 'F';
+else {
+    grade = "F";
 }
 
-console.log(grade)
+console.log(grade(score))
