@@ -7,7 +7,7 @@ export default (props) => {
         name: '',
         nickname: '',
         age: '',
-        skill: '',
+        skill: '',  
     })
 
     useEffect(() => {
